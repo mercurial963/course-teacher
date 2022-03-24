@@ -1,0 +1,2 @@
+DATABASE_URL: "postgres://postgres:password@localhost:5432/class?sslmode=disable"
+LISTEN_ADDR: ":4000"
